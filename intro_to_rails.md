@@ -4,6 +4,7 @@ Ruby on Rails is one of the defacto standards in the MVC world and for good reas
 
 ##Some prerequistes
 
+###Ruby
 For those of you new to ruby, there are a lot of great tutorials.
 
 If you know another language, like python (like me) well, this is a good intro:
@@ -20,5 +21,21 @@ If you want an advanced look at ruby I'd recommend monk:
 
 [ruby monk](https://rubymonk.com/)
 
+###Rails
+
+I know I just mentioned railsbridge, but it's a really great high level intro generally:
+
+[rails bridge](http://docs.railsbridge.org/intro-to-rails/ruby_language)
+
+This is a great set of resources on rails, it's fairly in-depth, but not a book:
+
+[rails guide](http://guides.rubyonrails.org/)
+
+This is a pretty good free book on rails:
+
+[rails tutorial](https://www.railstutorial.org)
 
 
+##The most minimal rails application possible
+
+ 
