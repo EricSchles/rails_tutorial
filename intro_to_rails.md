@@ -35,7 +35,6 @@ This is a pretty good free book on rails:
 
 [rails tutorial](https://www.railstutorial.org)
 
-
 ##The most minimal rails application possible
 
- 
+
